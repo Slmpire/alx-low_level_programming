@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <stdio.h>
 // fuction mains to begin execution
 // return 0
