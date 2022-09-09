@@ -10,16 +10,6 @@
 
 int main(void)
 {
-<<<<<<< HEAD
-	char lowcap;
-
-	for (lowcap = 'a'; low <= 'z'; lowcap++)
-		putchar(lowcap);
-	for (lowcap = 'A'; low <= 'Z'; lowcap++)
-                putchar(lowcap);
-	putchar('\n');
-
-=======
 	char low;
 
 	for (low = 'a'; low <= 'z'; low++)
@@ -32,6 +22,5 @@ int main(void)
 	}
 	putchar('\n');
 	
->>>>>>> 634e01c950ab9e28ed7ef20440453c014c6f311b
 	return (0);
 }
