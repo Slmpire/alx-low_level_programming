@@ -7,7 +7,7 @@
 /**
  * main - entry level
  *
- * return always 0 successfully
+ * Return: Always 0 (Success)
  *
  */
 int main(void)
