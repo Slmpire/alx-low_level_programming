@@ -25,10 +25,9 @@ int main(void)
 			if (p == 98 && q == 99)
 			{
 				continue;
-
+			}
 			putchar(',');
 			putchar(' ');
-			}
 		}
 	}
 
